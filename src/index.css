@@ -197,3 +197,9 @@ body {
   }
 }
 /* Fin Main Page */
+.head{
+  background-color: #282c34;
+  min-height: 100vh;
+
+  color: white;
+}
