@@ -1,10 +1,10 @@
 import rick from './img/rick-morty.png';
-import './App.css';
 import {useState} from 'react';
 import Characters from './components/Characters';
 import FireBaseTest from './pages/firebasetest';
 
-
+// https://www.youtube.com/watch?v=jCY6DH8F4oc
+//This video has to connect firebase to react
 function App() {
 
   const [characters, setCharacters] = useState(null);
